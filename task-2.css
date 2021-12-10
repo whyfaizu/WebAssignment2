@@ -1,0 +1,19 @@
+*{padding: 0;margin: 0;box-sizing: border-box;}
+body
+{
+	background: gold;
+}
+div h2
+{
+	text-align: center;
+	font-size: 60px;
+	color: blue;
+}
+pre
+{
+	margin-top: 30px;
+	background: red;
+	font-size: 22px;
+	width: 100%;
+	color: black;
+}
